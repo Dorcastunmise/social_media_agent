@@ -1,5 +1,5 @@
 # Social Media Content Generator
-![s2](./SocialMediaGenerator.jpg)
+![s2](SocialMediaGenerator.jpg)
 
 A Streamlit web application that generates social media content based on YouTube video transcripts using OpenAI's GPT models.
 
